@@ -1,0 +1,54 @@
+
+*{
+	box-sizing:border-box;
+}
+h1{
+	text-align:center;
+	font-family:georgia;
+}
+p{
+	background:grey;
+	border:3px solid black;
+	width:410px;
+	margin:20px;
+	padding:15px;
+
+}
+.sec1{
+	float:left;
+	position:relative;
+
+}
+.sec2{
+	float:left;
+	position:relative;
+
+}
+.sec3{
+	position:relative;
+	float:left;
+}
+.chicken{
+	border:1px solid black;
+	background:pink;
+	float:right;
+	position:relative;
+	bottom:15px;
+	left:15px;
+}
+.beef{
+	border:1px solid black;
+	background:brown;
+	float:right;
+	position:relative;
+	bottom:15px;
+	left:15px;
+}
+.sushi {
+	border:1px solid black;
+	background:lightyellow;
+	float:right;
+	position:relative;
+	bottom:15px;
+	left:15px;
+}
